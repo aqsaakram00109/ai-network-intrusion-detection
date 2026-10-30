@@ -1,4 +1,4 @@
-# ai-network-intrusion-detection
+# AI-Powered Network Intrusion Detection System
 Machine learning-based network intrusion detection with explainability and threat scoring
 # AI-Powered Network Intrusion Detection System
 
