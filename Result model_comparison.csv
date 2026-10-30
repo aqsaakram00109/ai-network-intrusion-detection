@@ -1,0 +1,4 @@
+Model,Accuracy,Balanced Accuracy
+All features,1.0,1.0
+Without Number,1.0,1.0
+Without Number and protocol features,1.0,1.0
